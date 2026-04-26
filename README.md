@@ -1,19 +1,18 @@
 # Olá, eu sou Matheus Augusto 👋
 
-💻 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Estudante de Ciencias da Computação
 🚀 Focado em Desenvolvimento Web e Banco de Dados  
-📚 Estudando HTML, CSS, JavaScript, Java e SQL  
+📚 Estudando HTML, CSS, JavaScript, Java, python e SQL  
 🎯 Buscando oportunidade como Jovem Aprendiz / Estágio em TI
 
 Skills
 
-HTML | CSS | JavaScript | Java | SQL | Git | GitHub
+HTML | CSS | JavaScript |  SQL |  GitHub | Python
 
 ## Projetos em destaque
 
 - Portfólio pessoal
 - Chatbot emocional
-- Sistema CRUD com Java + SQL
 - Banco de dados de carros
 
 ## Contato
