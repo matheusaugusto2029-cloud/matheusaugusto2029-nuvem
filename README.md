@@ -19,4 +19,4 @@ HTML | CSS | JavaScript | Java | SQL | Git | GitHub
 ## Contato
 
 📧 matheusaugusto2029@gmail.com
-🔗 LinkedIn: seu link aqui
+🔗 LinkedIn: www.linkedin.com/in/matheus-augusto-a8791326b
