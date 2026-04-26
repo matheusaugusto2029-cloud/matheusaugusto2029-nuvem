@@ -5,7 +5,7 @@
 📚 Estudando HTML, CSS, JavaScript, Java e SQL  
 🎯 Buscando oportunidade como Jovem Aprendiz / Estágio em TI
 
-## Tecnologias
+Skills
 
 HTML | CSS | JavaScript | Java | SQL | Git | GitHub
 
