@@ -1,6 +1,6 @@
 # Olá, eu sou o Matheus Augusto! 👋
 
-Estudante de **Ciências da Computação - UNIP** | Focado em **Front-End** e **Automações**.
+Estudante de Ciências da Computação - UNIP | Focado em Front-End e Automações.
 
 ---
 
@@ -14,11 +14,9 @@ Estudante de **Ciências da Computação - UNIP** | Focado em **Front-End** e **
 ---
 
 ### 🌐 Idiomas
-* **Espanhol:** Intermediário 
-* **Inglês:** Intermediário 
+* **Espanhol:** Intermediário
+* **Inglês:** Intermediário
 
-
-## Contato
-
-📧 matheusaugusto2029@gmail.com
-🔗 LinkedIn: www.linkedin.com/in/matheus-augusto-a8791326b
+### Contato
+📬 [matheusaugusto2029@gmail.com](mailto:matheusaugusto2029@gmail.com)  
+💼 [LinkedIn](https://linkedin.com)
