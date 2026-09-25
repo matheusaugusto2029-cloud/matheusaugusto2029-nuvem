@@ -1,19 +1,22 @@
-# Olá, eu sou Matheus Augusto 👋
+# Olá, eu sou o Matheus Augusto! 👋
 
-💻 Estudante de Ciencias da Computação
-🚀 Focado em Desenvolvimento Web e Banco de Dados  
-📚 Estudando HTML, CSS, JavaScript, Java, python e SQL  
-🎯 Buscando oportunidade como Jovem Aprendiz / Estágio em TI
+Estudante de **Ciências da Computação - UNIP** | Focado em **Front-End** e **Automações**.
 
-Skills
+---
 
-HTML | CSS | JavaScript |  SQL |  GitHub | Python
+### 🛠️ Tecnologias e Ferramentas
 
-## Projetos em destaque
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![JavaScript](https://shields.io)
+![Python](https://shields.io)
 
-- Portfólio pessoal
-- Chatbot emocional
-- Banco de dados de carros
+---
+
+### 🌐 Idiomas
+* **Espanhol:** Intermediário 
+* **Inglês:** Intermediário 
+
 
 ## Contato
 
